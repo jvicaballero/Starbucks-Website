@@ -1,0 +1,61 @@
+.dummy{
+    height:5000px;
+}
+
+.jumbotron{
+    height:60vh;
+    background:url(../images/coffeebeans.jpg);
+    background-size: cover;
+}
+   
+.logo{
+    height: 500px;
+    width: 500px;
+}
+
+.bg-green{
+    background-color:#036635;
+}
+
+.fade-light{
+    filter: brightness(14);
+}
+
+.background-logo{
+    height: 1000px;
+    width: 1000px;
+}
+
+.centered-over-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.thank-you-pic1{
+    height: 300px;
+   
+    background:url(../images/thank-you.webp);
+    background-size: cover;
+  
+}
+
+.thank-you-pic2{
+    height: 300px;
+   
+    background:url(../images/thank-you.jpg);
+    background-size: cover;
+  
+}
+
+.footer-pic{
+    height:40vh;
+    background:url(../images/coffeebeans.jpg);
+    background-size: cover;
+}
+
+.resize{
+    height: 200px;
+    width:800px;
+}
